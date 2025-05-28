@@ -74,6 +74,7 @@ BD_USER=postgres
 BD_PASSWORD=123
 BD_DATABASE=bdex
 ```
+Após isso, abra a pasta `/data` e descompacte o arquivo `global_horizontal_means.rar`
 
 3. Acesse o diretório do projeto e instale as dependências:
 ```
